@@ -1,0 +1,44 @@
+[
+  {
+    "sample_id": "xray_sample_004",
+    "modality": "xray",
+    "split": "example",
+    "privacy_review_status": "manual_review_required",
+    "conversation": [
+      {"from": "human", "value": "Ca chụp này được thực hiện ở tư thế nào?"},
+      {"from": "gpt", "value": "Ca chụp này được thực hiện ở tư thế thẳng."},
+      {"from": "human", "value": "Khảo sát này tập trung vào vùng cơ thể nào?"},
+      {"from": "gpt", "value": "Khảo sát này tập trung vào vùng ngực."},
+      {"from": "human", "value": "Trên phim X-quang có ghi nhận bất thường gì không?"},
+      {"from": "gpt", "value": "Trên phim X-quang không có bất thường nào được ghi nhận."}
+    ]
+  },
+  {
+    "sample_id": "xray_sample_005",
+    "modality": "xray",
+    "split": "example",
+    "privacy_review_status": "manual_review_required",
+    "conversation": [
+      {"from": "human", "value": "Tư thế chụp của ca chụp này là gì?"},
+      {"from": "gpt", "value": "Tư thế chụp của ca chụp này là thẳng."},
+      {"from": "human", "value": "Vùng cơ thể nào được khảo sát trong bộ phim này?"},
+      {"from": "gpt", "value": "Bộ phim này khảo sát vùng ngực của cơ thể."},
+      {"from": "human", "value": "Vị trí bất thường nào được nêu trong kết luận của bộ phim này?"},
+      {"from": "gpt", "value": "Vị trí bất thường được nêu trong kết luận của bộ phim này là hai bên phổi, thùy dưới phổi phải."}
+    ]
+  },
+  {
+    "sample_id": "xray_sample_006",
+    "modality": "xray",
+    "split": "example",
+    "privacy_review_status": "manual_review_required",
+    "conversation": [
+      {"from": "human", "value": "Ca chụp này được thực hiện ở tư thế nào?"},
+      {"from": "gpt", "value": "Ca chụp này được thực hiện ở tư thế thẳng."},
+      {"from": "human", "value": "Vùng cơ thể chính được khảo sát trong ca chụp này là gì?"},
+      {"from": "gpt", "value": "Vùng cơ thể chính được khảo sát trong ca chụp này là ngực."},
+      {"from": "human", "value": "Bất thường nào được ghi nhận trong kết luận của ca chụp này?"},
+      {"from": "gpt", "value": "Bất thường được ghi nhận trong kết luận của ca chụp này là đám mờ vùng đỉnh phổi phải."}
+    ]
+  }
+]

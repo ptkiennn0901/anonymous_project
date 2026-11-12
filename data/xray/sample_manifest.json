@@ -1,0 +1,5 @@
+[
+  {"sample_id": "xray_sample_004", "modality": "xray", "files": ["image_0001.jpg"]},
+  {"sample_id": "xray_sample_005", "modality": "xray", "files": ["image_0001.jpg"]},
+  {"sample_id": "xray_sample_006", "modality": "xray", "files": ["image_0001.jpg"]}
+]

@@ -1,0 +1,6 @@
+# Do not commit unreviewed hospital-derived files.
+data/xray/**
+data/ct/**
+data/mr/**
+data/pet_ct/**
+!data/README.md

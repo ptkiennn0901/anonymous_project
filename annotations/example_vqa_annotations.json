@@ -1,0 +1,12 @@
+[
+  {
+    "sample_id": "xray_sample_001",
+    "modality": "xray",
+    "question_id": "example_001",
+    "question": "What imaging modality is represented by this sample?",
+    "answer": "X-ray",
+    "answer_type": "closed",
+    "split": "example",
+    "is_synthetic_example": true
+  }
+]
